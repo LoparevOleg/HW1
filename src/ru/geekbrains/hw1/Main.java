@@ -48,7 +48,7 @@ public class Main {
 	}
 
 	private static void printHellowName(String word){
-		System.out.println("Hellow " + word);
+		System.out.println("Hello " + word + "!");
 	}
 
 	private static void leapYear(int a){
