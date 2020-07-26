@@ -12,7 +12,7 @@ public class MainHW3 {
     public static void main(String[] args) {
 
 
-        //guessNumber(10);
+        guessNumber(10);
 
        // String[] words = {"apple", "orange", "lemon", "banana", "apricot", "avocado", "broccoli", "carrot", "cherry", "garlic", "grape", "melon", "leak", "kiwi", "mango", "mushroom", "nut", "olive", "pea", "peanut", "pear", "pepper", "pineapple", "pumpkin", "potato"};
        // guessWord(words);
